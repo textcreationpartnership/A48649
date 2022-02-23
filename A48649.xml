@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of several ships belonging to English merchants, taken by French privateers since December, one thousand six hundred seventy and three. Also a brief account touching what applications hath been made for redress, at the council-board, and with the committee of trade.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48649</idno>
+            <idno type="STC">Wing L2405</idno>
+            <idno type="STC">ESTC R224161</idno>
+            <idno type="EEBO-CITATION">99834554</idno>
+            <idno type="PROQUEST">99834554</idno>
+            <idno type="VID">39055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48649)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1813:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of several ships belonging to English merchants, taken by French privateers since December, one thousand six hundred seventy and three. Also a brief account touching what applications hath been made for redress, at the council-board, and with the committee of trade.</title>
+               </titleStmt>
+               <extent>44 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>printed in the year, 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ship registers --  England --  Early works to 1800.</term>
+               <term>Hijacking of ships --  France --  Early works to 1800.</term>
+               <term>Lists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39055:1" rendition="simple:additions"/>
+            <p>A LIST OF Several Ships Belonging to <hi>ENGLISH MERCHANTS,</hi> Taken by <hi>French Privateers,</hi> ſince <hi>December,</hi> One thouſand ſix hundred ſeventy and three.</p>
+            <p>ALSO A brief Account touching what Applications hath been made for Redreſs, at the Council-Board, and with the Committee of Trade.</p>
+            <p>
+               <hi>AMSTERDAM,</hi> Printed in the Year, 1677.</p>
+            <pb facs="tcp:39055:2"/>
+            <pb facs="tcp:39055:2" rendition="simple:additions"/>
+            <pb facs="tcp:39055:3" rendition="simple:additions"/>
+            <pb facs="tcp:39055:3"/>
+            <pb facs="tcp:39055:4" rendition="simple:additions"/>
+            <pb facs="tcp:39055:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter_of_report">
+            <pb facs="tcp:39055:5"/>
+            <pb n="3" facs="tcp:39055:5"/>
+            <head>
+               <hi>At the Court at</hi> White-Hall, <hi>the</hi> 4th. <hi>of</hi> Auguſt, 1676.</head>
+            <head>Preſent, The KING'S Moſt Excellent Majeſty in Council.</head>
+            <argument>
+               <p>
+                  <hi>The Right Honourable the Lords of the Committee of Trade did this Day preſent unto his Majeſty in Council, a Report touching the Injuries which his Subjects did ſuſtain by the</hi> French Capers, <hi>in the Words following.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>THere was preſented unto your Majeſty in Council, on the 31ſt. of <hi>May</hi> laſt, a Peti<g ref="char:EOLhyphen"/>tion in the Name of all the Merchants of <hi>London,</hi> and other Places, concerned in the ſeve<g ref="char:EOLhyphen"/>ral Ships Taken by the <hi>French Privateers,</hi> and carried into ſeveral Ports of that Kingdom; And their Complaints conſiſted of the Points follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="1">1. That the Ship and Goods of your Subjects though Manned according to the Act of Navi<g ref="char:EOLhyphen"/>gation, and furniſhed with all neceſſary Paſſes,
+<pb n="4" facs="tcp:39055:6"/>were daily ſeized carried into <hi>Dunkirk, Calais, Sherbrook,</hi> and other Ports, the Maſters and Mar<g ref="char:EOLhyphen"/>riners kept cloſe Priſoners, to force them by hard<g ref="char:EOLhyphen"/>ſhip to abuſe their Owners, or elſe for Reliefe of their own neceſſityes (being commonly ſtriped and plundered) to enter into the Privateers ſervice, which great numbers have done, with very pernitious effects.</p>
+            <p n="2">2. That the delay and charg of Proſecuting the Law in <hi>France,</hi> does commonly make the Own<g ref="char:EOLhyphen"/>ers to become Looſers of halfe the Value, when ever they are moſt Succeſsful.</p>
+            <p n="3">3. That there is no Reparation ever gotten from Privateers, for what they plunder and im<g ref="char:EOLhyphen"/>bezzle, which makes them freely ſeize upon all they meet, and perpetually moleſt the Navigation of your Subjects.</p>
+            <p>Wherefore, your Petitioners humbly implor<g ref="char:EOLhyphen"/>ing your Majeſties Protection and releife, Your Majeſty was hereupon graciouſly pleaſed, out of a Senſe of your Subjects ſufferings, to command that ſome Frigats ſhould ſaile forth to cleare the Coaſt of thoſe Privateers, to ſeize them, and bring ſuch as had offended to make Reſtitution. And your Majeſty did further Or<g ref="char:EOLhyphen"/>der, That the Committee of Trade, ſhould as well take notice of the particular Caſes and Com<g ref="char:EOLhyphen"/>plaints depending, that ſuch of them as were of
+<pb facs="tcp:39055:6"/>Weight and Merit, might be fitted to receive your moſt gracious Recommendation for Re<g ref="char:EOLhyphen"/>liefe, as to Survey, the whole number of Seiz<g ref="char:EOLhyphen"/>zures, which have been made on your Subjects, in Order to lay before your Majeſty what hard<g ref="char:EOLhyphen"/>ſhip have been ſuſteyned at Sea, and what ſort of Juſtice hath been adminiſtred in <hi>France,</hi> with their opinions of what is fit to adviſe your Ma<g ref="char:EOLhyphen"/>jeſty therein.</p>
+            <p>In Obedience to which Command, we have hereunto annexed a Liſt of ſuch Ships as have been ſeized, to the Number of 53. And the Caſes wherein the Owners have repaired unto your Ma<g ref="char:EOLhyphen"/>jeſty, either in your Council, or by your Secre<g ref="char:EOLhyphen"/>tary of State for Relief. Which, as in the general it ſuppoſes a Juſtice in ſuch Complaints, ſo, it leaves a ſuſpicion of great hardſhip in the Me<g ref="char:EOLhyphen"/>thods of Redreſs. And the number of Captures is no ſmall proof of the facility of Condem<g ref="char:EOLhyphen"/>nation.</p>
+            <p>How many other helpleſs men there have been (beſides the ſaid Caſes) who have not had ability to proſecute, or how many of theſe Caſes have been favoured with Redreſſe, we cannot cer<g ref="char:EOLhyphen"/>tainly underſtand, till the Information we have ſought for, come from <hi>Paris,</hi> which may alſo en<g ref="char:EOLhyphen"/>able us to compleat their circumſtances of every Caſe.</p>
+            <pb facs="tcp:39055:7"/>
+            <p>But in the mean time, ſuch of all the Inſtan<g ref="char:EOLhyphen"/>ces of Redreſſe, as are come to our knowledge, we have not failed, in the <hi>Margine,</hi> to make men<g ref="char:EOLhyphen"/>tion of them, being in number Seven.</p>
+            <p>While we were in the mid'ſt of this Proſecu<g ref="char:EOLhyphen"/>tion, Mr. Secretary <hi>Coventry,</hi> does on the ſixth inſtant, preſent unto the Committee a Paper, which he received from the <hi>French</hi> Embaſſador, Monſieur <hi>Courtin,</hi> relating to theſe matters, and the Contents thereof were as follow.</p>
+            <floatingText xml:lang="eng" type="extract_from_letter">
+               <body>
+                  <argument>
+                     <p>An Extract of a Letter from Monſieur <hi>Colbert</hi> to Monſieur <hi>d' Pompone,</hi> written the 28th. of <hi>June,</hi> 1676.</p>
+                  </argument>
+                  <p>
+                     <hi>FOR what concerns the Prizes it would be a difficult matter to Anſwer to all the Caſes con<g ref="char:EOLhyphen"/>tained in Monſieur</hi> Courtin's <hi>Letter; What I can ſay, is,</hi>
+                  </p>
+                  <p>
+                     <hi>That the Council for</hi> Marine Affairs, <hi>Sits every</hi> Friday <hi>at St.</hi> Germans.</p>
+                  <p>
+                     <hi>That all</hi> Privateers <hi>and</hi> Reclaimers <hi>know it.</hi>
+                  </p>
+                  <p>
+                     <hi>That Sir</hi> Ellis Leighton, <hi>nominated by the</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>Embaſſador hath alwayes notice of it, and is all<g ref="char:EOLhyphen"/>wayes preſent at it.</hi>
+                  </p>
+                  <p>
+                     <hi>That not a Week paſſes, but I give him two or three Audiences, and oftentimes I ſend for him on purpoſe.</hi>
+                  </p>
+                  <pb facs="tcp:39055:7"/>
+                  <p>
+                     <hi>His Reaſons are all Reported, Read and Exami<g ref="char:EOLhyphen"/>ned.</hi>
+                  </p>
+                  <p>
+                     <hi>As likewiſe are all Petitions of</hi> Reclaimers, <hi>and I ſhall tell you more, I acquaint him with the Reaſons upon which Judgement is given.</hi>
+                  </p>
+                  <p>
+                     <hi>In giving Judgement all Veſſells which have any Ap<g ref="char:EOLhyphen"/>pearance of being</hi> Engliſh <hi>are Releaſt, and very often, and almoſt alwayes, although we are ſatiſfyed that the Ships are</hi> Dutch, <hi>yet they are releaſed becauſe there is ſome appearance of their being</hi> Engliſh; <hi>And every thing is Judged favourably for that Nation; And it is true that all Ships that are taken are of</hi> Dutch <hi>built; That they never were in</hi> England; <hi>that the Maſters and all the equipage are</hi> Dutch; <hi>That the Documents are for perſons unknown, and which are not oftentimes ſo wuch as named; That they carry with them onely ſome Sea briefes from</hi> Waterford <hi>or ſome other Towne of</hi> Ireland <hi>or</hi> Stotland; <hi>That the whole Ships Com<g ref="char:EOLhyphen"/>pany Depoſes, they were ſent to</hi> Holland; <hi>That we have found on Board three or four Veſſells, Bills of Accompts, by which is ſeen the</hi> Engliſh <hi>take two three and four,</hi> Per Cent. <hi>For Owning of Ships; And although it is impoſsible to avoid confiſcateing them, yet theſe are the Ships which make ſuch a noiſe in</hi> Eng<g ref="char:EOLhyphen"/>land.</p>
+               </body>
+            </floatingText>
+            <p>In Anſwer to which <hi>Remarques;</hi> though it be true that all reſpect imaginable ought to be given to what Miniſters of that Conſideration do pro<g ref="char:EOLhyphen"/>nounce,
+<pb facs="tcp:39055:8"/>Yet there being ſome difference be<g ref="char:EOLhyphen"/>tween them who feel the ſmart, and thoſe who feel it not; we ſhall inſiſt on ſome particulars, that your Majeſty may diſcerne whether your Subjects are ſo fortunate in their freedome of Trade at Sea, or in the helps of Juſtice when they are ſeized, as the Report and Information of the Letter would ſeem to make out. For as it magni<g ref="char:EOLhyphen"/>fyes the favour which is exerciſed in <hi>France,</hi> the facility in all Addreſſes, and the tenderneſſe to releive <hi>Engliſh</hi> men in all Complaints, ſo we cannot on this Subject but owne to your Majeſty the very different Reſentments we have thereof, for we underſtand that when <hi>Engliſh</hi> Ships are brought into the <hi>Ports</hi> of <hi>France,</hi> many of the Marriners complaining of ill Treatment, and ſome of Torment, their Papers being ſeized and their Perſons in reſtraint, till all Examinations are prepared, Then are all the Writings ſent up to the Privy Council at St. <hi>Germans,</hi> and there Judgment definitively given; Seldome are any of the reaſons of Condemnation mentioned in the Decree, and never any Appeal or Reviſion admitted of (So at leaſt it was until the 20th of <hi>June</hi> laſt) And whether this be the tenderneſſe or the Juſtice which is mentioned we do not know; But we are well aſſured, that the Methods of your Majeſty Clemency, and Juſtice on like oc<g ref="char:EOLhyphen"/>caſions,
+<pb n="9" facs="tcp:39055:8"/>have been far otherwiſe. And we ap<g ref="char:EOLhyphen"/>peal to the preſent Embaſſador, Monſieur <hi>Cour<g ref="char:EOLhyphen"/>tin,</hi> if almoſt in all Caſes, that he or any other of the Embaſſadors thought fit to own (when his Excellency was here before, and your Majeſty in War with <hi>Holland,</hi> ſeizing many Ships as Prize, and under great ſuſpicion claimed by the <hi>French</hi>) whether it were not very cuſtomary, to have a ſhort Reference, and a ſummary Examination of all Papers by the Judge of the Admiralty in his Chamber, and that if any thing appeared fair in the Caſe, whether the Ships were not immedi<g ref="char:EOLhyphen"/>ately Releaſed without Law, charge or delay? And 'twil not be out of ſeaſon, we hope, to annex hereunto the Copy of an Order of the 22th. of <hi>July</hi> 1665, Signed by the then Lords Commiſſi<g ref="char:EOLhyphen"/>oners of Prizes, where it will appear, That <hi>Eigh<g ref="char:EOLhyphen"/>teen French Ships</hi> (which were Laden with Wine and Brandy) being at <hi>Dover,</hi> and detained as Prize, were all <hi>Eighteen</hi> by one Order diſcharg<g ref="char:EOLhyphen"/>ed, without any Law, or even the Ceremony of the Judges Examination, being ſingly on the Credit of the Embaſſadors Word, affirming that they belonged unto the <hi>French.</hi>
+            </p>
+            <p>And as for the matter of <hi>Reviſions</hi> or <hi>Appeals,</hi> after Sentence in the Court of Admiralty here; We know his Excellency will alſo remember, that never any man was denied his liberty there<g ref="char:EOLhyphen"/>in,
+<pb n="10" facs="tcp:39055:9"/>but on the contrary, your Majeſty gave a ſtanding Commiſſion for Appeals in all Caſes of Prizes, and filled it with the Lords of your Council only, that every Caſe might receive a candid a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well as unqueſtionable determina<g ref="char:EOLhyphen"/>tion.</p>
+            <p>We might alſo put your Majeſty in mind that during the whole terme of your late League with <hi>France,</hi> when ever any <hi>French</hi> Ships were ſeized by the <hi>Hollander,</hi> and afterwards retaken by his Majeſties Frigats, ſuch <hi>French</hi> Ships were allwayes reſtored on demand, no conſideration being had of the time they were in poſſeſſion of the <hi>Hollander,</hi> Whether a Month, two, or three as ſome times they were, and when the <hi>French</hi> owner as it hath happened knew not of ſuch re<g ref="char:EOLhyphen"/>taking, but that the Ship was according to Law, condemned to your Majeſty and ſould with o<g ref="char:EOLhyphen"/>ther Prizes, yet the Claimer appearing, your Majeſty hath ordered the Mony and product of the Ships to be reſtored unto him.</p>
+            <p>Such Various Methods of Juſtice and of Clemency, might have entituled your Majeſty to a different acknowledgment, and more advan<g ref="char:EOLhyphen"/>tageous effects.</p>
+            <p>As to the other part of the ſaid Paper, It ſeems to containe very harſh imputations on the Trade of your Majeſties Subjects, and from ſome ill
+<pb n="11" facs="tcp:39055:9"/>practice perhaps found out (as every where there may be Inſtances of the like) General Rules are made, and ſevere Impreſſions taken, which have<g ref="char:EOLhyphen"/>ing entred the thoughs of ſome eminent Miniſters we muſt not wonder (how frequent and how multiplyed ſoever your Majeſties Recommenda<g ref="char:EOLhyphen"/>tions for Juſtice are) that the Events of Tryalls prove ſo unfortunate, If your Mujeſty will but Vouchſafe to caſt your Eye on the Caſes here annext, You will ſoon ſee.</p>
+            <p>Whether (as is imputed) all the Ships taken are <hi>Dutch</hi> built?</p>
+            <p>Whether they are all ſuch as never were in <hi>England?</hi>
+            </p>
+            <p>Whether all the Maſters and all the Marriners are <hi>Dutch?</hi>
+            </p>
+            <p>VVhether the Documents be for perſons un<g ref="char:EOLhyphen"/>known and oftentimes not named.</p>
+            <p>VVhether in the whole Liſt there be more then one Ship from <hi>Waterford</hi> and but ſix from the reſt of all <hi>Ireland,</hi> but from <hi>Scotland</hi> not ſo much as one?</p>
+            <p>VVhether tis credible all the Ships Company do ſwear they are ſent to <hi>Holland</hi> when ſo many are taken even comming from <hi>Holland?</hi>
+            </p>
+            <p>Your Majeſty may ſee how many Ships in the Liſt are <hi>Engliſh</hi> built taken with <hi>Engliſh</hi> Colours, <hi>Engliſh Marriners, Engliſh</hi> Owners, ſome of them
+<pb n="12" facs="tcp:39055:10"/>known to your Majeſty, and to whom the beſt Papers your Majeſty or your Miniſters can ſigne or the Treaties do require, are given, but all in vain.</p>
+            <p>So that if the Caſe be in the General quite dif<g ref="char:EOLhyphen"/>ferent from what in the General is repreſented we hope it will be no crime for your Majeſties Subjects to make ſome Noiſe in <hi>England,</hi> when they are hurt and when they ſee their goods taken from them by Violence, and that Violence rather Juſtifyed then redreſt by Law.</p>
+            <p>Tis not for the Condemnation paſt on thoſe very ill caſes ennumerated that your Subjects do complain, for it were to their Advantage if all ſuch were Puniſhed and deterred from Trade, who by colluſion take ſhare in that Profit which the favour of the preſent conjuncture ſeems wholly to appropriate to this Kingdom.</p>
+            <p>And ſurely your Majeſty and the whole King<g ref="char:EOLhyphen"/>dome did reckon upon this advantage, and the Extent of Trade that would naturally ſlow in as one of the greateſt friuts and bleſſings of your peace, ſo that your Majeſty being ſenſible of great decay and loſſe of <hi>Engliſh</hi> trading Ships in the late War, did think it adviſable to admit your Subjects to repaire themſelves on the ſudden by purchaſing of forraigne Ships, and your Majeſty by your Authority made them free, and fit to
+<pb n="13" facs="tcp:39055:10"/>partake in the benefit of <hi>Engliſh</hi> Ships, to the diminution of thoſe higher Cuſtomes, which otherwiſe ſuch Ships were obliged to pay. And while your Subjects with theſe and with their own home built Ships are in proſecution of the ſaid Advantages, while every man is invited by the Conjuncture to venture more and to inlarge his Trade, while by a general truſt in the peace and allyance your Majeſty holds with all your Neighbours round about, they are lead to go abroad unarmed and without defence, we cannot but lament it as a great misfortune and diſap<g ref="char:EOLhyphen"/>pointment to obſerve how theſe your Majeſties Subjects are frequently made a Prey of and very evilly treated both at Sea and Land.</p>
+            <p>Wherefore conſidering that the Root of all this diſorder ariſes from the violence and rapine of the <hi>French</hi> Capers, who ought to be looked on as diſturbers of the publick quiet, and Enemies to the good freindſhip between the two Crowns, We are humbly of opinion, That your Majeſty has juſt occaſion from the Injuryes paſt, and thoſe which are now depending and which do every day increaſe, to make a very ſerious repreſenta<g ref="char:EOLhyphen"/>tion of all unto his moſt Chriſtian Majeſty; And not only preſſe for ſome better method of repair<g ref="char:EOLhyphen"/>ing the grievances mentioned, But earneſtly to inſiſt on the calling in of all Privateers. Or elſe
+<pb n="14" facs="tcp:39055:11"/>your Majeſty muſt do <hi>Right,</hi> and give <hi>Defence</hi> to your Subjects from all the <hi>Inſolencies</hi> which they ſo frequently meet;</p>
+            <closer>
+               <signed>All which is moſt Humbly ſubmitted.</signed>
+            </closer>
+            <closer>
+               <dateline>Council Chamber, <date>31th. <hi>July</hi> 1676.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Angleſey,</hi>
+                     </item>
+                     <item>
+                        <hi>Bath,</hi>
+                     </item>
+                     <item>
+                        <hi>Craven,</hi>
+                     </item>
+                     <item>
+                        <hi>J. Ernle,</hi>
+                     </item>
+                     <item>
+                        <hi>Finch, C.</hi>
+                     </item>
+                     <item>
+                        <hi>Bridgwater,</hi>
+                     </item>
+                     <item>
+                        <hi>H. Coventry,</hi>
+                     </item>
+                     <item>
+                        <hi>G. Cartret.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Southwell</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="15" facs="tcp:39055:11"/>
+            <p>HIS Majeſty taking into his ſerious Conſideration the dayly Complaints of his Subjects, and having a great Sence and Reſentment of their ill Uſage, hath thought fit to approve the ſaid Report, and is therefore Graciouſly pleaſed to Order, as its hereby Order<g ref="char:EOLhyphen"/>ed, accordingly.</p>
+            <p>That the Right honorable Mr. Secretary <hi>Coven<g ref="char:EOLhyphen"/>try,</hi> do immediately tranſmit to his Majeſties Em<g ref="char:EOLhyphen"/>baſſador at <hi>Paris,</hi> a Copy thereof, that ſo the evil and the unhappy ſtate of theſe things may be made known in that Court, and the Remedyes preſſed for in his Majeſties Name; which are pro<g ref="char:EOLhyphen"/>poſed by the ſaid Report. And Maſter Secretary is alſo to attend the <hi>French</hi> Embaſſador here, with the ſame Repreſentation, and to expoſtulate up<g ref="char:EOLhyphen"/>on all theſe hardſhips, and the little Remedy given to his Majeſties Subjects, either on the Merits of their Cauſes, or the Recommendations of them by his Majeſty. That ſo his Execllency being made ſenſible of his Majeſtys diſpleaſure herein, and the reaſonable diſcontent of his Subjects there may be, by his care, ſuch lively impreſſions hereof fixed with the King his Ma<g ref="char:EOLhyphen"/>ſter, and the Miniſters of <hi>France</hi> as may Redreſſe the Evills, that are complained of, and obtaine the juſt Remedies which are propoſed.</p>
+            <closer>
+               <signed>Philip Lloyd.</signed>
+            </closer>
+         </div>
+         <div type="list_of_ships">
+            <pb facs="tcp:39055:12"/>
+            <pb n="17" facs="tcp:39055:12"/>
+            <head>A LIST of Several SHIPS belonging to <hi>ENGLISH MERCHANTS,</hi> Taken by <hi>French Privateers,</hi> ſince <hi>De<g ref="char:EOLhyphen"/>cember,</hi> One thouſand ſix hundred ſeventy and three.</head>
+            <head type="sub">ALSO His MAJESTIES Orders for Redreſs, bearing Date as followeth.</head>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 3d. 1674.</head>
+               <p>THE <hi>Pellican</hi> and <hi>Hopewell,</hi> two Ketches <hi>Engliſh</hi> Built, Maſters and Marriners all <hi>Engliſh,</hi> Laden at <hi>London,</hi> by Merchants of the Place, all <hi>Engliſh</hi> and their Owners, Bound to <hi>Bilbo,</hi> and configned to their own Factors. They were taken at their entering to <hi>Bilbo,</hi> by <hi>Le Moine</hi> a Privateer, Commander of the <hi>Re<g ref="char:EOLhyphen"/>noune,</hi> and carried to <hi>Creswick.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>November</hi> 4th. 1674.</head>
+               <p>The <hi>Lady</hi> of <hi>Verginia</hi> and Saint <hi>Joſeph</hi> a <hi>Spaniſh</hi> Built Ship, bought by Mr. <hi>Tyte</hi> and Mr. <hi>Hutch<g ref="char:EOLhyphen"/>ins</hi> both <hi>Engliſh-men,</hi> in 1673, when his Majeſty
+<pb n="18" facs="tcp:39055:13"/>did tolerate a trade with forreigne Ships and Marriners, and upon the breach betwixt <hi>France,</hi> and <hi>Spaine,</hi> this Property was notified at the Ad<g ref="char:EOLhyphen"/>miralty Office at <hi>Bayon,</hi> and at the General Of<g ref="char:EOLhyphen"/>fice of Marrine at <hi>Paris.</hi> She was Laden in the <hi>Canaries</hi> by Sir <hi>Arthur Ingram</hi> Knight, and <hi>Richard Owen,</hi> now <hi>Engliſh</hi> Conſul there, with Wines, to the Value of 1050 <hi>l.</hi> at firſt Coſt; She was taken in <hi>December</hi> 1673, near the mouth of the Chan<g ref="char:EOLhyphen"/>nel, by <hi>John de la Roche, de Fontaine,</hi> carried by him to the <hi>Weſt Indies,</hi> and not heard of in a year.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 19th, 1675.</head>
+               <p>The <hi>John</hi> and <hi>Sarah,</hi> of 120 Tun, <hi>Engliſh</hi> Built, <hi>William Button</hi> Maſter, he and his Marriners <hi>Eng<g ref="char:EOLhyphen"/>liſh, Abraham</hi> and <hi>Francis Jaggard Engliſh</hi> Owners of the Ship, Laden with Wool at <hi>Bilbo</hi> for ac<g ref="char:EOLhyphen"/>count of <hi>George Banon</hi> of <hi>London,</hi> and <hi>Robert Hutchins</hi> of <hi>Exeter;</hi> ſhe was in her Courſe to <hi>Hamborough</hi> whither ſhe was bound, and the Goods conſign'd, ſeized in the Bay of <hi>Biſcay,</hi> on the 4th of <hi>Ostober</hi> 1674, and by <hi>Michael Gauvaine</hi> a Privateer of <hi>Porto Lewis,</hi> carried into <hi>Rochel,</hi> where notwithſtanding her Cockets and Bills of Lading, ſhe was condemned for want of a Sea-Brief.</p>
+            </div>
+            <div type="ship">
+               <pb n="19" facs="tcp:39055:13"/>
+               <head>
+                  <hi>November</hi> 20th, 1674.</head>
+               <p>The <hi>Oake, John Symmons</hi> Owner, Sir <hi>John Fre<g ref="char:EOLhyphen"/>derick</hi> and other <hi>Engliſh-men</hi> Laders; They had Cockets and Bills of Lading, but ſeized and car<g ref="char:EOLhyphen"/>ried in about the ſame time, for want of a Sea-Brief.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Novemb.</hi> 20th, 1674.</head>
+               <p>The <hi>Orange Tree, Andrew Squaſh</hi> and Co-part<g ref="char:EOLhyphen"/>ners Laders and Owners, taken about the ſame time, and carried in, having all Papers neceſſary except a Sea-Brief.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>January</hi> 27th. 1674.</head>
+               <p>The <hi>Great Duke of Tuſcany,</hi> an <hi>Italian</hi> Ship, Laden with 4000 <hi>Holland</hi> Cheeſes, upon the account of <hi>William Welch</hi> Merchant of <hi>London,</hi> to be ſent to <hi>Rochel,</hi> is ſeized on in <hi>Tor-bay,</hi> by a <hi>French</hi> Caper, and carried to <hi>Creſwick.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>March</hi> 29th, 1675.</head>
+               <p>The <hi>Poſtilian</hi> of <hi>Cadice,</hi> a <hi>Dutch</hi> Ship, <hi>John Sim<g ref="char:EOLhyphen"/>pſon</hi> Maſter, being run into <hi>Tor-bay</hi> and within half a Harſers length of the ſhore is ſeized on by
+<pb n="20" facs="tcp:39055:14"/>Boats ſent from the Ships of ſome <hi>French</hi> Men of War, and particularly the <hi>Chevalier de Reynold.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>March</hi> 3d. 1675.</head>
+               <p>His Majeſties <hi>Packet Boat</hi> is by <hi>Anthony Vander Tyden,</hi> a Caper of <hi>Dunkirk,</hi> plundred of Jewells as ſhe was paſſing into <hi>Holland.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 4th. 1675.</head>
+               <p>The <hi>Unity,</hi> 250 Tuns, <hi>John Shipey</hi> Maſter, wholly Mann'd with his Majeſties Subjects, pro<g ref="char:EOLhyphen"/>vided with all Paſſes and Teſtimonials, by the Treaty required, and belonging to <hi>William Welch</hi> Merchant of <hi>London,</hi> is in her Courſe from <hi>Lisbone</hi> to <hi>Rotterdam,</hi> ſeized by two <hi>French</hi> Capers, and carried into Saint <hi>Malloes.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>September</hi> 28th, 1675.</head>
+               <p>The <hi>Golden Sun</hi> of <hi>Bremen,</hi> Burthen 100 Tuns, <hi>Egbert Coſter</hi> Maſter, richly laden with Drapery and <hi>Engliſh</hi> Manifactures, by <hi>Edward Smith,</hi> and a great number of other Merchants of <hi>London,</hi> as by Bill of Lading, and Depoſitions taken before the Lords of the Committee of Trade and Plan<g ref="char:EOLhyphen"/>tations appeared, ſhe was in her Courſe from
+<pb n="21" facs="tcp:39055:14"/>
+                  <hi>London</hi> to <hi>Hamburgh,</hi> in <hi>September</hi> 1675, Taken by a <hi>French</hi> Privateer, carried to <hi>Dunkirk</hi> and condemned, though <hi>Bremen</hi> be under the protecti<g ref="char:EOLhyphen"/>on of the <hi>Swede.</hi> The parties appearing before the Lords of the Committee; ſwore the Principal coſts of their goods was to the Vallue of 3092 l.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>September</hi> 28th, 1675</head>
+               <p>
+                  <hi>Content</hi> of <hi>Yarmouth, Engliſh</hi> built, <hi>Robert Willi<g ref="char:EOLhyphen"/>ams</hi> Maſter, and halfe Owner, manned with his Majeſties Subjects, and provided with Paſſes. The other halfe, and the whole of the Lading, belonging to <hi>Simon Francia,</hi> who is naturalized. As the Ship was Sayling from <hi>Rotterdam</hi> to <hi>Fal<g ref="char:EOLhyphen"/>mouth,</hi> and ſo in her Courſe to the <hi>Canaries,</hi> is ſeized in <hi>September</hi> laſt, by a <hi>French</hi> Privateer, carried into <hi>Calice,</hi> the goods condemned, and the Ship reſtored, yet the Maſter ſwears his Loſſes amount to 996 <hi>l.</hi> 8 <hi>s.</hi> and 6 d. And the ſaid <hi>Fran<g ref="char:EOLhyphen"/>cia</hi> his unto 3975 <hi>l.</hi> 2 <hi>s.</hi> 3 d.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>December</hi> 1ſt. 1675.</head>
+               <p>
+                  <hi>Elizabeth</hi> of <hi>London John Job</hi> Maſter, Manned according to the Act of Navigation, <hi>Francis Te<g ref="char:EOLhyphen"/>rence</hi> an <hi>Engliſh</hi> man the Owner, and he, with others of his Majeſties Subjects, Proprietors of
+<pb n="22" facs="tcp:39055:15"/>the Lading, in her Courſe from <hi>Rochel</hi> to <hi>Rot<g ref="char:EOLhyphen"/>terdam,</hi> is ſeized and carried into <hi>Calais.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>October</hi> 17th. 1675.</head>
+               <p>The <hi>Contents</hi> of <hi>Briſtol, Walter Hide</hi> Maſter, <hi>James Whitwood</hi> Owner, bound from <hi>Briſtol</hi> to <hi>France,</hi> was near <hi>Vſſhen</hi> in <hi>November</hi> 1673, Run willfully under Water, by the <hi>Chevalier de Betune,</hi> in the Ship <hi>L'Oriſlam,</hi> the Maſter and Marriners ſwear that they ſaved themſelves in the Port<g ref="char:EOLhyphen"/>holes and Ladders of the <hi>French</hi> Ship, had no help from the <hi>French</hi> to ſave them, but being on board, for a moneth, and were groſſly abuſed. The loſs upon Oath, amounted unto 1100 <hi>l.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>January</hi> 30th, 1675.</head>
+               <p>The <hi>James</hi> of <hi>Dover,</hi> bound for <hi>Bilboa; Anthony Andrews</hi> Maſter, <hi>Nicholas Cullen</hi> of <hi>Dover,</hi> and other <hi>Engliſh</hi> Merchants are Oweners. The Ship is taken by the <hi>French</hi> Privateer out of <hi>Tor-Bay,</hi> and carried into St. <hi>Maloes.</hi> Reſtored.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>February</hi> 23d. 1676.</head>
+               <p>The <hi>John</hi> and <hi>Elizabeth, Engliſh</hi> built, <hi>Thomas Riſing</hi> Maſter, and part Owner, the Marriners all
+<pb n="23" facs="tcp:39055:15"/>
+                  <hi>Engliſh, John Smith, Edmund Smith</hi> of <hi>Rye,</hi> and the Maſter, all Subjects of his Majeſty, Owners of the Cargoe: She was in her courſe from <hi>Rye</hi> to <hi>Rotterdam,</hi> in <hi>December</hi> 1675, ſeized within <hi>Piſtoll</hi> Shot of <hi>Dover Peer,</hi> by <hi>Nicholas Botfel,</hi> a <hi>French</hi> Caper, the Maſter much abuſed, and one of the men ſhot through the body, for no other rea<g ref="char:EOLhyphen"/>ſon then not ſtriking the Top-ſail, as the Caper hath been examined by the Judge of the Admiral<g ref="char:EOLhyphen"/>ty, in <hi>March</hi> laſt.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Feburary</hi> 23d. 1675.</head>
+               <p>The <hi>Reſolution</hi> Frigat, <hi>Engliſh</hi> built, <hi>John Aden</hi> Maſter, belonging to <hi>James Littleton</hi> and <hi>Edward Nelford</hi> of <hi>London</hi> Merchants; ſhe was bound from <hi>Bilbo</hi> to <hi>Amſterdam,</hi> Laden with Wool and Iron, for the ſole accounts of the Kings Subjects. ſhe had her Paſſe and Bills of Lading, yet ſeized by two Privateers and carried into <hi>Dunkirk.</hi> Reſtor'd.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>March</hi> 3d. 1675.</head>
+               <p>The <hi>Society</hi> of <hi>Boſton, Thomas Edwards</hi> Maſter, Laden with Proviſions by <hi>Edward Sanders</hi> of <hi>London</hi> Merchant, in her courſe from <hi>New England</hi> to <hi>Jamaica,</hi> is ſeized by <hi>Mounſieur Oſſerune</hi> Govern<g ref="char:EOLhyphen"/>our of the <hi>French Tartugas,</hi> and the Proviſions taken out.</p>
+            </div>
+            <div type="ship">
+               <pb n="24" facs="tcp:39055:16"/>
+               <head>
+                  <hi>March</hi> 8th. 1675.</head>
+               <p>The <hi>Catherine</hi> Galliot, <hi>Adrian Chapmotts</hi> Maſter, <hi>Henry de Wild</hi> Owners, his Majeſties Subjects, Notwithſtanding a Paſſe from the Lords of the Admiralty, ſhe is in her Courſe from <hi>Yarmouth,</hi> at <hi>Roane</hi> taken, and carried into <hi>Dunkirk.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>April</hi> 7th. 1676.</head>
+               <p>The <hi>New Exchange, Walter Peace</hi> Maſter, <hi>Will. York, Henry Glover</hi> and other Merchants of <hi>Lyme<g ref="char:EOLhyphen"/>rick,</hi> his Majeſties Subjects Owners of ſhip and goods; ſhe had Paſſes in due form on Board, as alſo an Order from the Court of <hi>France</hi> for her Releaſe upon a former Capture, by a Privateer of <hi>Calice,</hi> but is taken by <hi>Charles Landschooter</hi> of <hi>Dunkirk,</hi> and there condemned as Prize.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>April</hi> 19th. 1676.</head>
+               <p>The <hi>Abraham</hi> of <hi>London, John Peterſonpitts</hi> Ma<g ref="char:EOLhyphen"/>ſter, <hi>Thomas Ball</hi> of <hi>London</hi> Merchant is Owner, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s appeared by Bill of Sale, ſhe had a Paſs, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et in her Voyage from <hi>Zeland</hi> to <hi>England</hi> was carried into <hi>Dunkirk.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="25" facs="tcp:39055:16"/>
+               <head>
+                  <hi>April</hi> 28th, 1676.</head>
+               <p>The <hi>Green Dragon, James White</hi> Maſter, being laden at <hi>Lymerick</hi> with Beef, Butter, Tallow, Salted-Hides, and other Commodities of the Country, and bound for <hi>Oſtend,</hi> was on the 15th. of <hi>April</hi> laſt ſeized by Captain <hi>Juny,</hi> and carried into <hi>Cherbrook</hi> Road; all the Ships papers taken a<g ref="char:EOLhyphen"/>way, and the Maſter and Marriners forced, by torture, to ſign a paper, acknowledging that the ſhip belonged to <hi>Oſtend,</hi> though ſhe belongs to <hi>Patrick Rochford</hi> of <hi>Lymerick,</hi> Merchant; and had all neceſſary Sea-briefes and Paſſes, and the Lade<g ref="char:EOLhyphen"/>ing belongs to Sir <hi>John Frederick</hi> and others; all his Majeſties Subjects. The Maſter and three fourths of the Marriners were his Majeſties Sub<g ref="char:EOLhyphen"/>jects.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 19th. and <hi>June</hi> 30. 1676.</head>
+               <p>The <hi>Elizabeth</hi> of <hi>London, Engliſh</hi> built, burthen about 80 Tuns, <hi>John Ranger</hi> Maſter; manned with <hi>Engliſh</hi> men, having a Paſſe from the Lords of the Admiralty, and a Port-Paſs from <hi>Dover</hi> being laden with Merchandiſes at the <hi>Terceraes,</hi> partly on the account of <hi>Abraham Chapman</hi> of <hi>London</hi> Merchant, and the reſt for <hi>Engliſh</hi> and <hi>Portugeſes,</hi> and bound for <hi>Amſterdam,</hi> was ſeized
+<pb n="26" facs="tcp:39055:17"/>by the <hi>Chevalier de Beaumont</hi> a <hi>French</hi> Caper, on the 14th. of <hi>May;</hi> near <hi>Portland,</hi> and carried in<g ref="char:EOLhyphen"/>to <hi>Cherbowrne,</hi> where the Maſter had been ill uſed, and the Ship and Goods, threatned to be Confiſcated.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 5th. 1676.</head>
+               <p>The <hi>Saint John, John Saint-John</hi> Maſter; Laden with Wine, Brandy and Rozen; coming from <hi>Bourdeaux</hi> to <hi>England,</hi> was ſeized by <hi>James Swan,</hi> his Majeſties Subject, ſerving by <hi>French</hi> Comiſſi<g ref="char:EOLhyphen"/>on, and carried into <hi>Dunkirk;</hi> Notwithſtanding the Ship and Lading did belong to the Lord <hi>Bullinbrook</hi> and other his Majeſties Subjects. Re<g ref="char:EOLhyphen"/>ſtored.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 5th. 1676.</head>
+               <p>The <hi>Nicholas</hi> of <hi>Dover, Nicholas Bernard</hi> Maſter; Laden with Barley at <hi>Marenes</hi> in <hi>France,</hi> by <hi>John Callens</hi> of <hi>Rochel</hi> for account of Engliſh, who af<g ref="char:EOLhyphen"/>terwards entred the ſaid Barley in the Cuſtom-Houſe there, as bound for <hi>Middlebourg,</hi> where it was Conſigned to an <hi>Engliſh-man,</hi> he paid the Duties, and made Oath that no prohibicion was there given againſt Tranſporting Corne into an enemies Country; Yet, on this pretence, was the ſaid Ship, in the Courſe of her Voyage,
+<pb n="27" facs="tcp:39055:17"/>taken and carried into <hi>Calais.</hi> Reſtored.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 5th. 1676.</head>
+               <p>The <hi>Suſanna</hi> of <hi>London, Cornelius Cariens</hi> Maſter, <hi>William Welch</hi> of <hi>London</hi> Merchant, ſole Owner, Laden with 44 Cheſts of Sugar, with 24 Pipes of Pickled Lemmons, beſides other goods which belonged to the Subjects of <hi>Portugal;</hi> ſhe had all neceſſary Paſſes and Sea Letters, as well from the Lords of the Admiralty, as the Town whence ſhe ſet out; ſhe was in her <hi>Voyage</hi> from <hi>Lisbon</hi> to <hi>Rotterdam,</hi> taken by <hi>David Brizon</hi> his Majeſties Subject, ſayling by <hi>French</hi> Commiſſion, and carried into <hi>Bulloigne.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>May</hi> 19th, 1676.</head>
+               <p>The <hi>Peace</hi> of <hi>Dublin</hi> (Burthen 150. Tuns) <hi>Paul Hayes</hi> Maſter, <hi>William Williamſon, William Martin, and Samuel Martin</hi> of <hi>Dublin,</hi> all Subjects to his Majeſty and Owners; In her Voyage from <hi>Amſterdam</hi> to <hi>Bourdeaux</hi> ſhe is, on the firſt of <hi>April,</hi> ſeized near <hi>Dover</hi> Caſtle, and notwithſtanding her Paſſes, and all other neceſſary Papers, was carried into <hi>Calais.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="28" facs="tcp:39055:18"/>
+               <head>
+                  <hi>May</hi> 26th. 1676.</head>
+               <p>The <hi>William</hi> of <hi>London, John Cornelioſon</hi> Maſter, a <hi>Denizon</hi> of <hi>Ireland, William Galt</hi> the Owner, a Merchant of <hi>London,</hi> and naturall born Subject; She was in her Voyage from <hi>Rochel</hi> to the <hi>Sound,</hi> taken in <hi>April</hi> laſt, by one Captain <hi>Anthony,</hi> and carried into <hi>Calais,</hi> all his Papers taken from him, alſo their goods and cloths, the Maſter ſtript naked, he and ſeverall of his men, put in Priſon, and there deteined, till they had ſigned ſuch Pa<g ref="char:EOLhyphen"/>pers as were tendred to them, being not allowed an Interpreter, by the Preſident of <hi>Calais,</hi> as was Sworn by the ſaid Maſter, before the Lords of the Committe of Trade.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 7th, 1676.</head>
+               <p>The <hi>Hope</hi> of <hi>London, Engliſh built, Richard Mil<g ref="char:EOLhyphen"/>borne</hi> Maſter; All the Marriners but one, Sub<g ref="char:EOLhyphen"/>jects to his Majeſty, had Paſſes and Sea briefs, Yet as ſhe entred into <hi>Dover,</hi> (within Gunſhot of the Caſtle) was ſeized by Captain <hi>Bowen,</hi> a Subject of his Majeſties, ſayling by <hi>French</hi> Com<g ref="char:EOLhyphen"/>miſſion, and carried into <hi>Dunkirk.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="29" facs="tcp:39055:18"/>
+               <head>
+                  <hi>June</hi> 7th, 1676.</head>
+               <p>The <hi>Pellican</hi> of <hi>London, John Sanderſon</hi> Maſter, <hi>William Welch</hi> and <hi>John Swinton,</hi> who are his Ma<g ref="char:EOLhyphen"/>jeſtys Subjects, Owners of Ship and Lading, is come from the <hi>Terceras,</hi> and being bound to <hi>Amſterdam,</hi> ſhe is taken and carried into <hi>Dunkirk.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 14th. 1676.</head>
+               <p>The <hi>Agatha,</hi> Forreign built, 250 Tuns, Laden with Deales, at <hi>Waterwick</hi> in <hi>Norway;</hi> the Maſters name <hi>John Peters,</hi> a free <hi>Denizon,</hi> and the Ship and Goods belonging to <hi>John Doril</hi> and other Merchants, who are <hi>Engliſh.</hi> But in her Voyage to <hi>Amſterdam,</hi> is taken as Prize.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 21th. 1676.</head>
+               <p>The <hi>James</hi> of <hi>London,</hi> a free Ship, <hi>John Willi<g ref="char:EOLhyphen"/>amſon</hi> Maſter, the Owners all <hi>Engliſh,</hi> manned with 12 Engliſh and two Strangers, with a Paſs from the Lords of the Admiralty, and other neceſſary Teſtimonials. She was Laden with Salt and <hi>Setubal,</hi> and coming to <hi>London,</hi> was on the 28th. of <hi>May,</hi> within Gun-ſhot of <hi>Dover</hi> Caſtle ſeized and carried into <hi>Calaice,</hi> the Ship run a
+<pb n="30" facs="tcp:39055:19"/>ground, the Back broke, and Men abuſed, and their Papers taken away.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 25th. 1676.</head>
+               <p>The <hi>Patrick</hi> of <hi>Waterford,</hi> a Pink of 70 Tun, <hi>John Tucker</hi> Maſter, She was in <hi>October</hi> laſt taken by a Priviateer of <hi>Oſtend</hi> from the <hi>French,</hi> carried into the <hi>Groine,</hi> condemned as Prize, bought by <hi>Phillip Stafford</hi> an <hi>Engliſhman</hi> and there laden by him with Vinegar, Lemons and Oranges, and being ſent to <hi>Rotterdam,</hi> is taken neer <hi>Dover</hi> Caſtle and carried into <hi>Calais,</hi> to his detriment of 484 <hi>l.</hi> as is ſworn before the Lords of the Committee, by <hi>Thomas Roſſeter,</hi> his Majeſties Subjects and ſervant to the ſaid <hi>Stafford.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 28th. 1676.</head>
+               <p>The <hi>Reſolution</hi> of <hi>Poole, Engliſh</hi> built, <hi>Anthony Hart</hi> Maſter, laden at <hi>Pooll</hi> in <hi>May</hi> laſt, with Wheat, Barley and Rye, of the growth of the Kingdome, by <hi>John Welchman</hi> of <hi>Chriſt Church</hi> Merchant, ſole Owner thereof, to be delivered to his ſon at <hi>Rotterdam.</hi> She was taken in <hi>May</hi> by <hi>Oliver Compin,</hi> and carried into <hi>Dunkirk,</hi> though he were <hi>Engliſh</hi> built and <hi>Engliſh</hi> Marriners a<g ref="char:EOLhyphen"/>board, had a Paſſe according to the late Regula<g ref="char:EOLhyphen"/>cion
+<pb n="31" facs="tcp:39055:19"/>and the Ship belonging to the Maſter, and one <hi>Thomias Barefoot,</hi> and the parties concerned being Subjects to his Majeſty, all which hath been proved by authentick atteſtations, and upon Oath before the Lords of the Committee.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 28th. 1676.</head>
+               <p>The <hi>Peace</hi> of <hi>Dublin George Adrianſon</hi> Maſter, belonging to <hi>William York,</hi> and <hi>Andrew Joyce,</hi> his Majeſties Subjects, and by them laden at <hi>Gorway</hi> in <hi>Ireland,</hi> with Raw hides, Tallow, Leather, and other things, of the groweth of that Country, conſigned to <hi>William Eaton</hi> of <hi>Dover</hi> Merchant; had Bills of Ladeing, Sea-briefe, and other neceſſary Papers aboard; Yet in <hi>March</hi> laſt, was neer <hi>Dover</hi> ſeized by Captain <hi>William Bowen,</hi> Captain <hi>Peter Vermill,</hi> and <hi>Sacret Long<g ref="char:EOLhyphen"/>ſchooten;</hi> ſhe is carried into <hi>Dunkirk,</hi> to the Owners detriment of 1000 <hi>l.</hi> And the Ships Company were ſtript, plundered, and exceed<g ref="char:EOLhyphen"/>ingly abuſed by the ſaid <hi>Bowen.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 6th. 1676.</head>
+               <p>The <hi>Margaret</hi> of <hi>London,</hi> 320 Tuns, forraigne built but made free by warrant of the 14th. of <hi>June</hi> 1674. belonging to <hi>Chamberlaine Donne</hi>
+                  <pb n="32" facs="tcp:39055:20"/>Marchant of <hi>London,</hi> manned with <hi>Engliſhmen,</hi> all except two, and the Maſter, <hi>John Chriſman</hi> a free <hi>Denizon,</hi> ſhe is laden with Salt at <hi>Rochel,</hi> by order of <hi>Chriſoſtome Hamilton,</hi> and being bound for <hi>Dantzick,</hi> had a Paſſe under the Kings hand, Counterſined by Mr. Secretary <hi>Williamſon;</hi> Yet ſhe is taken, and carried into <hi>Calais,</hi> the 24th. of <hi>June</hi> laſt.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 6th. 1676.</head>
+               <p>The <hi>Judith</hi> of <hi>Dover,</hi> belonging to <hi>Abram Stock</hi> Merchant of the place, is taken by Priva<g ref="char:EOLhyphen"/>teers of <hi>France,</hi> and carried into <hi>Dunkirk.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 14th. 1676.</head>
+               <p>The St. <hi>George</hi> of <hi>London, Henry Fairweather</hi> Maſter, laden <hi>at Chriſtiana</hi> in <hi>Norway,</hi> by order of <hi>George Turfrey</hi> Marchant of <hi>London,</hi> ſole Owner of the Ship and goods, and his Majeſties natural born Subject, ſhe was in her Courſe to <hi>London,</hi> met by the <hi>Boyall</hi> of <hi>Dunkirk,</hi> Rifled and Plun<g ref="char:EOLhyphen"/>dered of what could readily be taken away, the papers ſeized, and all carried into <hi>Dunkirk,</hi> where they were run a ſhore, and the Ship in Danger to be Split on the firſt change of weather, and the men very evilly treated.</p>
+            </div>
+            <div type="ship">
+               <pb n="33" facs="tcp:39055:20"/>
+               <head>
+                  <hi>July</hi> 20th. 1676.</head>
+               <p>The <hi>Sheperdeſſe</hi> of <hi>London,</hi> 280 Tuns burthen, <hi>Tyant Fecks</hi> Maſter, a free <hi>Denizon,</hi> had his Ma<g ref="char:EOLhyphen"/>jeſties Paſſe, and ſailing from the <hi>Fly</hi> to <hi>Norway,</hi> was taken and carried into <hi>Calias.</hi> That the Ship and about 60 <hi>l.</hi> in money belongs to <hi>Cornelius Van Alderwelt,</hi> as is ſworn by the ſaid <hi>Fecks,</hi> and made out by all papers found in the ſaid Ship.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 10th. 1676.</head>
+               <p>The <hi>Swan</hi> of <hi>London, John Richardſon</hi> Maſter, Laden with Salt, Wine, Brandy and other Mer<g ref="char:EOLhyphen"/>chandize at <hi>Nantz,</hi> and bound for the <hi>Balltick.</hi> The Ship and Goods, ſoley belonged to <hi>John Eyers,</hi> and <hi>Robert Tigh</hi> Merchants, his Majeſties natural born Subjects. She was ſeized by Captain <hi>Duranto,</hi> carried into <hi>Cherbrook,</hi> her bills of Lading, her Sea briefe, and other papers torne from them, the Ship plundered to the vallue of 250 <hi>l.</hi> in Goods, the Marriners impriſoned 16 dayes, all which is depoſed by him and others.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 11th. 1676.</head>
+               <p>The <hi>Orange Tree</hi> of <hi>Topsham, Samuell Syntall</hi> of
+<pb n="34" facs="tcp:39055:21"/>
+                  <hi>Topſham</hi> Maſter, Trading (for theſe 14 years) as a free Ship of <hi>England;</hi> and ſo entered in the Cuſtom Houſe of ſeveral Ports, and did belong to <hi>Andrew Quaſh</hi> of <hi>Exeter,</hi> and other Merchants of that place; All the Marriners <hi>Engliſh,</hi> yet as ſhe was comming homwards from <hi>Rotterdam,</hi> was on the 12th. of <hi>July</hi> 1674, met near <hi>Portland,</hi> by Captain <hi>Bodwyne,</hi> and carried into <hi>Sherbrook.</hi> That beſides the Loſſe of Ship and Goods the Marriners are damnified to the vallue of 200 <hi>l.</hi> and the Loſs of <hi>three of their Lives.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 14th, 1676.</head>
+               <p>The <hi>Margaret</hi> of <hi>London,</hi> burden 200 Tuns, <hi>William Lambert</hi> a free denizon, and Inhabitant of <hi>Dover</hi> Maſter, having a Paſſe from the Lords of the Admiralty, and manned according to the act of Navigation, in her Voyage from <hi>Rochell</hi> (where ſhe took in her Lading of Salt) was on the 15th of <hi>June</hi> laſt, taken by a <hi>French</hi> Privateer called the <hi>Geometry, Peter Minack</hi> Commander; and carried into <hi>St. Maloes,</hi> where ſhe is detained and the Maſter, and Seamen beaten and abuſed. All which is repreſented by <hi>James Thierry</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> Merchant; his Majeſties Subject.</p>
+            </div>
+            <div type="ship">
+               <pb n="35" facs="tcp:39055:21"/>
+               <head>
+                  <hi>July</hi> 14th, 1676.</head>
+               <p>The <hi>Welcome</hi> of <hi>London Engliſh</hi>-built, whereof <hi>James Thierry</hi> of <hi>London</hi> Merchant is ſole Owner, and <hi>Zacharias Barton</hi> Maſter, both his Majeſties Subjects, having taken in her Lading at <hi>Santo Cruz</hi> in <hi>Barbary,</hi> of Copper, Wax, and Almonds, on the account of <hi>Gomes Rodrigues,</hi> his Majeſties Sub<g ref="char:EOLhyphen"/>ject and an Inhabiant of <hi>London,</hi> was on the 9th. of <hi>June</hi> laſt, within five miles of <hi>Dover,</hi> taken by one <hi>Aren Johnſon</hi> a <hi>French</hi> Privateer, and carried into <hi>Dunkirk,</hi> where they are ſtill detained. The ſaid Ship had a Paſſe from the Lords of the Admiralty and a Sea-briefe from the Major of <hi>Southampton,</hi> and manned with his Majeſties Subjects, one excepted, all which hath appeared by Oath and Certificates.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June</hi> 28th. 1676.</head>
+               <p>The <hi>Charity</hi> of <hi>London,</hi> a Prize Ship made free, <hi>Robert Cotton</hi> Maſter, Navigated by <hi>Engliſh</hi> men, was fraighted with a parſell of Salt at <hi>Dartmouth,</hi> by Maſter <hi>Tucker</hi> of <hi>Lyme</hi> Merchant, and confin<g ref="char:EOLhyphen"/>ed to his brother <hi>Samuel Tucker</hi> at <hi>Rotterdam,</hi> and on her Voyage thither, about the 14th of <hi>April</hi> laſt, near <hi>Dungeneſse,</hi> ſhe was ſeized, by a <hi>French</hi>
+                  <pb n="36" facs="tcp:39055:22"/>Caper, one <hi>Gellitan</hi> Commander, and carried into <hi>Dunkirk,</hi> That the ſaid Veſſell appertaines to the Lady <hi>Holeroft,</hi> his Majeſties Natural born Sub<g ref="char:EOLhyphen"/>ject, as alſo are both the before named <hi>Tuckers.</hi> And the ſaid <hi>Cotton</hi> depoſes that he believes no ſtranger driectly or indriectly, had any Intereſt in the Ship and Lading, when ſhe was ſeized.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>June,</hi> 3d. 1676.</head>
+               <p>The <hi>Two Brothers</hi> of <hi>London, Thomas Peachy</hi> Maſter, burthen 100 Tuns, belonging unto <hi>William Miles,</hi> and <hi>Edmond Peachy</hi> of <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chants, was Laden with Corn at <hi>Burdeaux,</hi> for the proper account of <hi>James Verſprect,</hi> and <hi>Francis Vandenbrack,</hi> alſo of London Merchants, and in her Voyage from thence to <hi>Rotterdam,</hi> ſhe was taken at Sea near <hi>Dover,</hi> about the 12th of <hi>December</hi> laſt, by Captain <hi>John Pollet</hi> of <hi>Calias,</hi> and carried in there, notwithſtanding her Paſſes from the Lords of the Admiralty, the Lord Mayor, and the <hi>French</hi> Admiral of <hi>Bundeaux.</hi> That alſo the ſaid Veſſel, and Lading, was after three months ſuit diſcharged, yet the Intereſſents are really damaged, through the periſhing of their Corn, and all other Charges, to the value of 759 <hi>l.</hi> as appeared on Oath taken before Sir <hi>Robert Viner.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="list_of_ships">
+            <pb n="37" facs="tcp:39055:22"/>
+            <head>An additional Liſt of Ships belonging to <hi>Engliſh</hi> Mer<g ref="char:EOLhyphen"/>chants, and taken by <hi>French</hi> Privateers, touching which Application hath been made to Mr. Secretary <hi>Goventry</hi> only.</head>
+            <p>THE <hi>New Exchange</hi> of <hi>London,</hi> Forreign built, but belonging to <hi>William York,</hi> of <hi>Lymrick, Anthony Vernier</hi> Maſter, in her Courſe from <hi>Bourdeaux</hi> to <hi>Dunkirk,</hi> was taken and carried into <hi>Calais.</hi>
+            </p>
+            <p>The <hi>Charles</hi> of <hi>Dartmouth, Andrew Hocker</hi> Maſter, belonging to <hi>John Whitethrow</hi> of <hi>Dart<g ref="char:EOLhyphen"/>mouth</hi> Merchant; She was laden with Corn, bound to <hi>Saint Sebaſtian,</hi> but taken and carried into <hi>Saint John de Luz.</hi> Reſtored.</p>
+            <p>The Ship <hi>North Caper</hi> of <hi>Rotterdam,</hi> Laden with Timber, on account of ſome Merchants in <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> taken within the Bar of <hi>Dublin</hi> by a <hi>French</hi> Privateer of <hi>Breſt,</hi> called <hi>Gellin,</hi> and carried thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The Ship, <hi>Young William,</hi> Forreign built, Bur<g ref="char:EOLhyphen"/>then 100 Tuns, <hi>Thomas Vough</hi> Maſter; belong<g ref="char:EOLhyphen"/>ing to <hi>William York</hi> of <hi>Lymerick,</hi> bound for <hi>Bilbo,</hi> manned with his Majeſties Subjects, having a
+<pb n="38" facs="tcp:39055:23"/>Sea-brief on Board of her, taken and carried into <hi>Breſt,</hi> by a Privateer of that place. Reſtored.</p>
+            <p>The <hi>James,</hi> belonging to <hi>Sir Thomas Allen</hi> and others, burden 30 Tuns, <hi>Robert Dilworth</hi> Maſter, bound from <hi>Bourdeaux</hi> to <hi>Amſterdam,</hi> provided with ſufficient Certificates, all her men <hi>Engliſh,</hi> taken and carried into <hi>Calais.</hi> Reſtored.</p>
+            <p>The <hi>Kings Fiſher</hi> Dogger, <hi>Engliſh</hi> built, <hi>John Johnſon</hi> Maſter, taken by <hi>Peter Caſteau,</hi> and carri<g ref="char:EOLhyphen"/>ed into <hi>Dunkirk.</hi>
+            </p>
+            <p>The <hi>May-Flower, Simon Corben</hi> Maſter, belong<g ref="char:EOLhyphen"/>ing to <hi>George Tyte, Benjamin Peak,</hi> and others, Merchants of <hi>London,</hi> and though ſhe had a Paſs, from the Lords of the Admiralty, was <hi>Engliſh</hi> Built, and manned with <hi>Engliſh,</hi> yet ſhe was ta<g ref="char:EOLhyphen"/>ken and carried into <hi>Cherbrook.</hi>
+            </p>
+         </div>
+         <div type="list_of_ships">
+            <pb n="39" facs="tcp:39055:23"/>
+            <head>Continuation of a Liſt of Ships belonging to <hi>Engliſh</hi> Merchants, and taken by <hi>French</hi> Priviateers, touch<g ref="char:EOLhyphen"/>ing which Applycation hath been made to the Lords of the Commitee for Trade.</head>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt,</hi> 3d. 1676.</head>
+               <p>THE <hi>Sherwood</hi> of <hi>Boſton, Mathew Burchinal</hi> his Majeſties natural born Subject Maſter, bought at <hi>Amſterdam</hi> about <hi>April</hi> laſt, and being bound from thence to <hi>New-caſtle,</hi> was, a<g ref="char:EOLhyphen"/>bout the 20th of <hi>July</hi> laſt in her courſe thither, taken by a <hi>French</hi> Priviater, <hi>Nicholas Hayes</hi> Com<g ref="char:EOLhyphen"/>mander, and carried into <hi>Dunkirk,</hi> where ſhe is detayned, and threatned to be ſpeedly confiſcat<g ref="char:EOLhyphen"/>ed, notwithſtanding that, by the bill of ſale and other papers, which the ſaid Caper is now poſ<g ref="char:EOLhyphen"/>ſeſſed of, it doth evidently appear that the ſaid Ship doth truly belong to the Lord <hi>Sherwood, Charles Bertice</hi> Eſquire, <hi>John Wood</hi> and other his Majeſties Subjects and to no Forreigners.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 3d. 1676.</head>
+               <p>The <hi>Succeſſe</hi> of <hi>London, Stephen Holden</hi> Ma<g ref="char:EOLhyphen"/>ſter, being bound from <hi>Rochel</hi> to <hi>Riga,</hi> was late<g ref="char:EOLhyphen"/>ly
+<pb n="40" facs="tcp:39055:24"/>ſeized on by a <hi>French</hi> Privateer, belonging to <hi>Calais,</hi> and carried into that Port, where ſhe is ſtill deteined, although ſhe be a free Ship, and was Navigated wholly by <hi>Engliſh-men,</hi> and fur<g ref="char:EOLhyphen"/>niſhed with a Paſs according to the late Regula<g ref="char:EOLhyphen"/>tion, and together with her Lading doth entire<g ref="char:EOLhyphen"/>ly belong unto <hi>Thomas Kayton, William Riden, William Preſcot, Edmond Belitha,</hi> Mr. <hi>Benjamin Ay<g ref="char:EOLhyphen"/>loffe,</hi> and <hi>Henry Houſwel,</hi> and others of his Ma<g ref="char:EOLhyphen"/>jeſties Subjects.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 8th. 1676.</head>
+               <p>The <hi>Hopewell, Valentine Archer</hi> Commander, was on the 12th, of <hi>May,</hi> 1674, met by a <hi>French</hi> Privateer called <hi>la Renown, Monſieur le Monie</hi> Commander, who took out of her diverſe Com<g ref="char:EOLhyphen"/>modities of a conſiderable value, belonging to <hi>Brune Ryves</hi> and <hi>Richard Barker,</hi> who after much charge and trouble got a Sentence in <hi>France</hi> for the Reſtitution of their Goods, but could never obtain Execution thereof notwithſtanding their conſtant endeavours and application,</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 3d. 1676.</head>
+               <p>The <hi>Golden Lyon</hi> of <hi>Syrdam</hi> a Dutch Ship, ha<g ref="char:EOLhyphen"/>ving on Board 309 Hogſheds of <hi>Sugar,</hi> belong<g ref="char:EOLhyphen"/>ing
+<pb n="41" facs="tcp:39055:24"/>to <hi>Rowland Simpſon</hi> his Majeſties Subject, was in <hi>December</hi> 1674. taken by a <hi>French</hi> Privateer called the <hi>Golden Fleece, Bernard le Moine</hi> Com<g ref="char:EOLhyphen"/>mander, and carried into <hi>Milford Haven,</hi> where by a Warant out of the high Court of Admiralty, the prize was taken in areſt, and in cuſtody of the Officers of the Admiralty; But the ſaid <hi>Bernard Le Moine</hi> did, by Violateing the ſaid Arreſt, and the protection of his Majeſties Port, make Priſo<g ref="char:EOLhyphen"/>ners of the Officers, of the Admiralty, and car<g ref="char:EOLhyphen"/>ried the Prize, together with the Sugars belong<g ref="char:EOLhyphen"/>ing to his Majeſties Subjects into <hi>France,</hi> where he diſpoſed thereof at his own will and pleaſure.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 3d. 1676.</head>
+               <p>The <hi>Lilly Dogger</hi> of <hi>London, John Fiſher</hi> Maſter, his Majeſties Subject, in return from <hi>Virginia</hi> was met by two <hi>French</hi> Ships which without reſpect to the <hi>Engliſh</hi> Colours there flying, fired ſeveral times on the ſaid <hi>Doggar,</hi> and afterwards going on Board plundred to the value of at leaſt 1000 weight of Tobacco, and then diſmiſſed the <hi>Dog<g ref="char:EOLhyphen"/>ger,</hi> with this inſolent expreſſion, <hi>Go and tell your King of it.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="42" facs="tcp:39055:25"/>
+               <head>
+                  <hi>Auguſt</hi> 8th, 1676.</head>
+               <p>The <hi>Mary</hi> of <hi>Leverpool,</hi> an <hi>Engliſh</hi> Ship, <hi>Thomas Blunden</hi> Maſter, fraighted by <hi>Thomas Nisbet</hi> Merchant of <hi>York,</hi> and conſigned from <hi>Narva</hi> to his Factor at <hi>Rotterdam,</hi> was in her Courſe thi<g ref="char:EOLhyphen"/>ther, taken by a <hi>French</hi> Privateer, and carried in<g ref="char:EOLhyphen"/>to <hi>Dunkirk,</hi> where ſhe is ſtill deteined with the Lading, notwithſtanding ſhe was furniſhed with a Cuſtom-houſe Paſs, and a Paſs in purſuance of the Treaty of <hi>Denmark,</hi> dated about the 10th. <hi>April</hi> laſt.</p>
+            </div>
+         </div>
+         <div type="list_of_ships">
+            <head>A LIST of other Ships taken by <hi>French</hi> Pri<g ref="char:EOLhyphen"/>vateers.</head>
+            <div type="ship">
+               <head>
+                  <hi>July</hi> 6th. 1676.</head>
+               <p>THE <hi>William</hi> of <hi>Yarmouth, John Littlewood</hi> Maſter, whereof <hi>James Symonds</hi> is ſole Owner, being bound from <hi>Hambrough</hi> to <hi>Bourdeaux,</hi> was about the 20th, of <hi>May</hi> laſt, taken by a <hi>French</hi> Privateer, whereof one Captaine <hi>Duranto</hi> was Commander, and carried into <hi>Cher<g ref="char:EOLhyphen"/>brook.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="34" facs="tcp:39055:25"/>
+               <head>
+                  <hi>Auguſt</hi> 13th. 1676.</head>
+               <p>The <hi>Barbadoes Merchant</hi> of <hi>Briſtol,</hi> whereof <hi>Abraham Sanders, John Walter,</hi> and other Merchants of <hi>Briſtol,</hi> are Laders and Owners being bound from thence to <hi>Bilboa,</hi> was about the firſt of <hi>June</hi> laſt, ſeized by <hi>French</hi> Privateers of <hi>Bayon,</hi> and car<g ref="char:EOLhyphen"/>ried into that Port, notwithſtanding the ſaid Ship is <hi>Engliſh</hi> built, and was wholly Navigated by <hi>Engliſh</hi> men, bore an <hi>Engliſh</hi> Flagg, and was fur<g ref="char:EOLhyphen"/>niſhed with all neceſſary papers and Paſſes pur<g ref="char:EOLhyphen"/>ſuant to the late Regulation.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>Auguſt</hi> 31th. 1676.</head>
+               <p>The <hi>William</hi> of <hi>London,</hi> belonging unto <hi>William King</hi> and <hi>Robert de la Maine,</hi> in her Voyage from <hi>Southampton</hi> to <hi>London,</hi> about the 16th of <hi>July</hi> laſt, near <hi>Bench,</hi> was by Captaine <hi>James Martyne,</hi> a <hi>French</hi> Privateer carried into <hi>Facan</hi> in <hi>Normandy,</hi> and is there detained; notwithſtanding the ſaid Ship was provided with a Paſſe from the Lords Comiſſioners of the Admiralty, the Owners have depoſed the Ship and Goods to be worth, at leaſt 800 <hi>l.</hi>
+               </p>
+            </div>
+            <div type="ship">
+               <pb n="44" facs="tcp:39055:26"/>
+               <head>
+                  <hi>September</hi> 4th, 1676.</head>
+               <p>The <hi>Mary Pink</hi> of <hi>London,</hi> whereof <hi>John Gibbs, Nicholas Kempſtone,</hi> and other <hi>Engliſh</hi> Merchants Owners, having been lately built at <hi>Shoram,</hi> and manned with all <hi>Engliſh</hi> men was carried into <hi>Dunkirk</hi> on the 6th of <hi>Auguſt</hi> by a <hi>French</hi> Priva<g ref="char:EOLhyphen"/>teer.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>September</hi> 4th. 1676.</head>
+               <p>The <hi>Little Samuel</hi> of London, whoſe Owners and Laders are all his Majeſties Subjects, was in her Courſe from <hi>Rouen</hi> to <hi>London,</hi> on the 14th. <hi>Auguſt</hi> laſt, met by a <hi>French</hi> Privateer, and carri<g ref="char:EOLhyphen"/>ed into <hi>Calias,</hi> allthough the ſaid Hoy was man<g ref="char:EOLhyphen"/>ned wholly with <hi>Engliſh</hi> (except one <hi>French</hi> boy) and had a Paſſe from the Lords of the Admiral<g ref="char:EOLhyphen"/>ty perſuant to the late Regulation.</p>
+            </div>
+            <div type="ship">
+               <head>
+                  <hi>September</hi> 4th. 1676.</head>
+               <p>The <hi>Endeavour</hi> of <hi>Plymouth, Thomas Rowſe</hi> Maſter, belonging together with her Lading to his Majeſties Subjects, was on the 15th. <hi>Auguſt</hi> laſt in her Courſe to <hi>Amſterdam,</hi> taken by a <hi>French</hi> Privateer, called the <hi>Brave,</hi> whereof one <hi>La Lan<g ref="char:EOLhyphen"/>der</hi> is Commander, and Carried into <hi>Dunkirk.</hi>
+               </p>
+               <pb facs="tcp:39055:26"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
